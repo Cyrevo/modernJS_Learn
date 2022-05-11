@@ -152,7 +152,7 @@
 /**
  * mapやfilterを使った配列の処理
  */
-const nameArr = ["佐藤", "田中", "鈴木"];
+// const nameArr = ["佐藤", "田中", "鈴木"];
 // for (let index = 0; index < nameArr.length; index++){
 //   console.log(nameArr[index]);
 // }
